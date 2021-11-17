@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>bg-BG language for Phoca Gallery</name>
+    <description>bg-BG language for Phoca Gallery</description>
+    <element>file_Phoca_Gallery_bg-BG</element>
+    <type>file</type>
+    <version>4.4.2</version>
+    <downloads>
+      <downloadurl type="full" format="zip">http://github.com/pl71/BG-for-PG/bg_BG_Phoca_j3.0.zip</downloadurl>
+    </downloads>
+    <targetplatform name="joomla" version="3.9"/>
+  </update>
+</updates>
