@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensionset name="bg-BG Language Updates" description="bg-BG Joomla core and extensions languages updates">
-  <extension name="bg-BG language for Phoca Gallery" element="file_Phoca_Gallery_bg-BG" type="file" version="4.4.2" detailsurl="https://raw.githubusercontent.com/pl71/BG-for-PG/main/bg-BG_details_Phoca_Gallery.xml"/>
+  <extension name="bg-BG language for Phoca Gallery" element="file_Phoca_Gallery_bg-BG" type="file" version="4.4.1" detailsurl="https://raw.githubusercontent.com/pl71/BG-for-PG/main/bg-BG_details_Phoca_Gallery.xml"/>
 </extensionset>
