@@ -7,14 +7,38 @@
     <type>file</type>
     <version>4.4.2</version>
     <downloads>
-	<downloadurl type="full" format="zip">https://github.com/pl71/BG-for-PG/releases/download/R1/bg-BG_PhocaGallery.zip</downloadurl>
-	</downloads>
+		<downloadurl 
+			type="full" 
+			format="zip">
+			https://github.com/pl71/BG-for-PG/releases/download/R1/bg-BG_PhocaGallery.zip
+		</downloadurl>
+    </downloads>
 	<tags>
 		<tag>stable</tag>
 	</tags>
 	<client>site</client>
 	<maintainer>Plamen</maintainer>
-    <targetplatform name="joomla" version="[34].[23456789]"/>
+    <targetplatform name="joomla" version="3.([89]|10)"/>
 	<php_minimum>7.1</php_minimum>
   </update>
+  <update>
+		<name><![CDATA[ Phoca Open Graph Content Plugin ]]></name>
+		<description><![CDATA[ Phoca Open Graph Content Plugin is a Joomla! CMS Plugin. It adds open graph information meta tags into website html source code. Such information stored in meta tags can be automatically displayed on social media websites. ]]></description>
+		<element>phocaopengraph</element>
+		<folder>content</folder>
+		<type>plugin</type>
+		<version>4.0.1</version>
+		<infourl title="Phoca Open Graph Content Plugin 4.0.1">https://www.phoca.cz/</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaOpenGraphPlugin/releases/download/4.0.1/plg_content_phocaopengraph_v4.0.1.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[ Phoca.cz ]]></maintainer>
+		<maintainerurl>https://www.phoca.cz/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="4.[0]"/>
+		<client>site</client>
+	</update>
 </updates>
