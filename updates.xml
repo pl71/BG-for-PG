@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
   <update>
-    <name>Bulgarian language for PhocaGallery</name>
+    <name>Bulgarian language for Phoca Gallery</name>
     <description>Bulgarian language pack for Phoca Gallery</description>
     <element>bg-BG_PhocaGallery</element>
     <type>file</type>
@@ -14,11 +14,11 @@
 		</downloadurl>
     </downloads>
 	<tags>
-		<tag>beta-2</tag>
+		<tag>stable</tag>
 	</tags>
 	<client>site</client>
 	<maintainer>Plamen</maintainer>
     <targetplatform name="joomla" version="[34].[23456789]"/>
-	<php_minimum>6.1</php_minimum>
+	<php_minimum>7.1</php_minimum>
   </update>
 </updates>
