@@ -16,7 +16,7 @@
 	<tags>
 		<tag>beta</tag>
 	</tags>
-	<client>administrator</client>
+	<client>site</client>
 	<maintainer>Plamen</maintainer>
     <targetplatform name="joomla" version="3.[23456789]"/>
 	<php_minimum>7.1</php_minimum>
