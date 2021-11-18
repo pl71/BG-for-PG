@@ -14,7 +14,7 @@
 		</tags>
 		<client>site</client>
 		<maintainer>Plamen</maintainer>
-		<targetplatform name="joomla" version="3.([89]|10)"/>
+		<targetplatform name="joomla" version="((3\.(8|9|10))|(4\.0))"/>
 		<php_minimum>7.1</php_minimum>
 	</update>
 </updates>
