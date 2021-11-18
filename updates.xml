@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <updates>
   <update>
-    <name>com_PhocaGallery_bg-BG</name>
-    <description>bg-BG language for Phoca Gallery</description>
+    <name>Bulgarian language for Phoca Gallery</name>
+    <description>Bulgarian language pack for Phoca Gallery</description>
     <element>com_PhocaGallery_bg-BG</element>
     <type>file</type>
-    <version>4.5.2</version>
+    <version>4.4.2</version>
     <downloads>
 		<downloadurl 
 			type="full" 
