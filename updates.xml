@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
   <update>
-    <name>Bulgarian language for Phoca Gallery</name>
+    <name>Bulgarian language for PhocaGallery</name>
     <description>Bulgarian language pack for Phoca Gallery</description>
     <element>bg-BG_PhocaGallery</element>
     <type>file</type>
